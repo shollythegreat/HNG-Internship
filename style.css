@@ -1,0 +1,72 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+h1 {
+    font-size: 56px;
+}
+h1, h3, th, strong {
+    color: blue;
+}
+p {
+    text-align: justify;
+}
+DIV.psum p {
+    text-align: justify;
+}
+div.exp.section.left{
+    text-align: right;
+}
+#nav:link{
+    color: blue;
+}
+#nav:hover{
+    color: black;
+}
+#nav:visited{
+    color: red;
+}
+#nav:active{
+    color: brown;
+}
+#nav2:link{
+    color: blue;
+}
+#nav2:hover{
+    color: black;
+}
+#nav2:visited{
+    color: red;
+}
+#nav2:active{
+    color: brown;
+}
+th{
+    width: 2in;
+    text-align: left;
+}
+.psum {
+   border-top: 3px solid blue;
+   border-bottom: 3px solid blue;
+}
+.exp{
+   border-bottom: 3px solid blue;
+}
+.edu{
+    border-bottom: 3px solid blue;
+}
+.cert{
+    border-bottom: 3px solid blue;
+}
+.proj{
+    border-bottom: 3px solid blue;
+}
+.vw{
+    border-bottom: 3px solid blue;
+}
+.skills {
+    border-bottom: 3px solid blue;
+}
